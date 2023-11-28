@@ -161,3 +161,153 @@
 2023-11-28 12:16:29,475 - root - INFO - ******* Ending Add customer test **********
 2023-11-28 12:16:29,475 - root - INFO - ******* Ending Add customer test **********
 2023-11-28 12:16:29,475 - root - INFO - ******* Ending Add customer test **********
+2023-11-28 14:38:27,752 - root - INFO - ************* Test_003_AddCustomer **********
+2023-11-28 14:38:27,752 - root - INFO - ************* Test_003_AddCustomer **********
+2023-11-28 14:38:27,752 - root - INFO - ************* Test_003_AddCustomer **********
+2023-11-28 14:38:27,752 - root - INFO - ************* Test_003_AddCustomer **********
+2023-11-28 14:38:27,752 - root - INFO - ************* Test_003_AddCustomer **********
+2023-11-28 14:38:36,218 - root - INFO - ************* Login succesful **********
+2023-11-28 14:38:36,218 - root - INFO - ************* Login succesful **********
+2023-11-28 14:38:36,218 - root - INFO - ************* Login succesful **********
+2023-11-28 14:38:36,218 - root - INFO - ************* Login succesful **********
+2023-11-28 14:38:36,218 - root - INFO - ************* Login succesful **********
+2023-11-28 14:38:36,218 - root - INFO - ******* Starting Add Customer Test **********
+2023-11-28 14:38:36,218 - root - INFO - ******* Starting Add Customer Test **********
+2023-11-28 14:38:36,218 - root - INFO - ******* Starting Add Customer Test **********
+2023-11-28 14:38:36,218 - root - INFO - ******* Starting Add Customer Test **********
+2023-11-28 14:38:36,218 - root - INFO - ******* Starting Add Customer Test **********
+2023-11-28 14:38:40,352 - root - INFO - ************* Providing customer info **********
+2023-11-28 14:38:40,352 - root - INFO - ************* Providing customer info **********
+2023-11-28 14:38:40,352 - root - INFO - ************* Providing customer info **********
+2023-11-28 14:38:40,352 - root - INFO - ************* Providing customer info **********
+2023-11-28 14:38:40,352 - root - INFO - ************* Providing customer info **********
+2023-11-28 14:38:57,125 - root - INFO - ************* Saving customer info **********
+2023-11-28 14:38:57,125 - root - INFO - ************* Saving customer info **********
+2023-11-28 14:38:57,125 - root - INFO - ************* Saving customer info **********
+2023-11-28 14:38:57,125 - root - INFO - ************* Saving customer info **********
+2023-11-28 14:38:57,125 - root - INFO - ************* Saving customer info **********
+2023-11-28 14:38:57,126 - root - INFO - ********* Add customer validation started *****************
+2023-11-28 14:38:57,126 - root - INFO - ********* Add customer validation started *****************
+2023-11-28 14:38:57,126 - root - INFO - ********* Add customer validation started *****************
+2023-11-28 14:38:57,126 - root - INFO - ********* Add customer validation started *****************
+2023-11-28 14:38:57,126 - root - INFO - ********* Add customer validation started *****************
+2023-11-28 14:39:02,483 - root - INFO - ********* Add customer Test Passed *********
+2023-11-28 14:39:02,483 - root - INFO - ********* Add customer Test Passed *********
+2023-11-28 14:39:02,483 - root - INFO - ********* Add customer Test Passed *********
+2023-11-28 14:39:02,483 - root - INFO - ********* Add customer Test Passed *********
+2023-11-28 14:39:02,483 - root - INFO - ********* Add customer Test Passed *********
+2023-11-28 14:39:02,655 - root - INFO - ******* Ending Add customer test **********
+2023-11-28 14:39:02,655 - root - INFO - ******* Ending Add customer test **********
+2023-11-28 14:39:02,655 - root - INFO - ******* Ending Add customer test **********
+2023-11-28 14:39:02,655 - root - INFO - ******* Ending Add customer test **********
+2023-11-28 14:39:02,655 - root - INFO - ******* Ending Add customer test **********
+2023-11-28 14:42:51,967 - WDM - INFO - ====== WebDriver manager ======
+2023-11-28 14:42:51,967 - WDM - INFO - ====== WebDriver manager ======
+2023-11-28 14:42:51,967 - WDM - INFO - ====== WebDriver manager ======
+2023-11-28 14:42:51,967 - WDM - INFO - ====== WebDriver manager ======
+2023-11-28 14:42:51,967 - WDM - INFO - ====== WebDriver manager ======
+2023-11-28 14:42:54,064 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:54,064 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:54,064 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:54,064 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:54,064 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:54,372 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/119.0.2151.72/edgedriver_win64.zip
+2023-11-28 14:42:54,372 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/119.0.2151.72/edgedriver_win64.zip
+2023-11-28 14:42:54,372 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/119.0.2151.72/edgedriver_win64.zip
+2023-11-28 14:42:54,372 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/119.0.2151.72/edgedriver_win64.zip
+2023-11-28 14:42:54,372 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/119.0.2151.72/edgedriver_win64.zip
+2023-11-28 14:42:54,504 - WDM - INFO - Driver downloading response is 200
+2023-11-28 14:42:54,504 - WDM - INFO - Driver downloading response is 200
+2023-11-28 14:42:54,504 - WDM - INFO - Driver downloading response is 200
+2023-11-28 14:42:54,504 - WDM - INFO - Driver downloading response is 200
+2023-11-28 14:42:54,504 - WDM - INFO - Driver downloading response is 200
+2023-11-28 14:42:55,995 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:55,995 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:55,995 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:55,995 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:55,995 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:57,275 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:57,275 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:57,275 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:57,275 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:57,275 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:42:58,340 - WDM - INFO - Driver has been saved in cache [C:\Users\abhis\.wdm\drivers\edgedriver\win64\119.0.2151.72]
+2023-11-28 14:42:58,340 - WDM - INFO - Driver has been saved in cache [C:\Users\abhis\.wdm\drivers\edgedriver\win64\119.0.2151.72]
+2023-11-28 14:42:58,340 - WDM - INFO - Driver has been saved in cache [C:\Users\abhis\.wdm\drivers\edgedriver\win64\119.0.2151.72]
+2023-11-28 14:42:58,340 - WDM - INFO - Driver has been saved in cache [C:\Users\abhis\.wdm\drivers\edgedriver\win64\119.0.2151.72]
+2023-11-28 14:42:58,340 - WDM - INFO - Driver has been saved in cache [C:\Users\abhis\.wdm\drivers\edgedriver\win64\119.0.2151.72]
+2023-11-28 14:43:48,988 - WDM - INFO - ====== WebDriver manager ======
+2023-11-28 14:43:48,988 - WDM - INFO - ====== WebDriver manager ======
+2023-11-28 14:43:48,988 - WDM - INFO - ====== WebDriver manager ======
+2023-11-28 14:43:48,988 - WDM - INFO - ====== WebDriver manager ======
+2023-11-28 14:43:48,988 - WDM - INFO - ====== WebDriver manager ======
+2023-11-28 14:43:50,085 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:50,085 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:50,085 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:50,085 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:50,085 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:50,313 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/119.0.2151.72/edgedriver_win64.zip
+2023-11-28 14:43:50,313 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/119.0.2151.72/edgedriver_win64.zip
+2023-11-28 14:43:50,313 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/119.0.2151.72/edgedriver_win64.zip
+2023-11-28 14:43:50,313 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/119.0.2151.72/edgedriver_win64.zip
+2023-11-28 14:43:50,313 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/119.0.2151.72/edgedriver_win64.zip
+2023-11-28 14:43:50,459 - WDM - INFO - Driver downloading response is 200
+2023-11-28 14:43:50,459 - WDM - INFO - Driver downloading response is 200
+2023-11-28 14:43:50,459 - WDM - INFO - Driver downloading response is 200
+2023-11-28 14:43:50,459 - WDM - INFO - Driver downloading response is 200
+2023-11-28 14:43:50,459 - WDM - INFO - Driver downloading response is 200
+2023-11-28 14:43:51,267 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:51,267 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:51,267 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:51,267 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:51,267 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:51,925 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:51,925 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:51,925 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:51,925 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:51,925 - WDM - INFO - Get LATEST edgedriver version for Edge None
+2023-11-28 14:43:52,545 - WDM - INFO - Driver has been saved in cache [C:\Users\abhis\.wdm\drivers\edgedriver\win64\119.0.2151.72]
+2023-11-28 14:43:52,545 - WDM - INFO - Driver has been saved in cache [C:\Users\abhis\.wdm\drivers\edgedriver\win64\119.0.2151.72]
+2023-11-28 14:43:52,545 - WDM - INFO - Driver has been saved in cache [C:\Users\abhis\.wdm\drivers\edgedriver\win64\119.0.2151.72]
+2023-11-28 14:43:52,545 - WDM - INFO - Driver has been saved in cache [C:\Users\abhis\.wdm\drivers\edgedriver\win64\119.0.2151.72]
+2023-11-28 14:43:52,545 - WDM - INFO - Driver has been saved in cache [C:\Users\abhis\.wdm\drivers\edgedriver\win64\119.0.2151.72]
+2023-11-28 15:16:37,441 - root - INFO - ************* Test_003_AddCustomer **********
+2023-11-28 15:16:37,441 - root - INFO - ************* Test_003_AddCustomer **********
+2023-11-28 15:16:37,441 - root - INFO - ************* Test_003_AddCustomer **********
+2023-11-28 15:16:37,441 - root - INFO - ************* Test_003_AddCustomer **********
+2023-11-28 15:16:37,441 - root - INFO - ************* Test_003_AddCustomer **********
+2023-11-28 15:16:45,362 - root - INFO - ************* Login succesful **********
+2023-11-28 15:16:45,362 - root - INFO - ************* Login succesful **********
+2023-11-28 15:16:45,362 - root - INFO - ************* Login succesful **********
+2023-11-28 15:16:45,362 - root - INFO - ************* Login succesful **********
+2023-11-28 15:16:45,362 - root - INFO - ************* Login succesful **********
+2023-11-28 15:16:45,363 - root - INFO - ******* Starting Add Customer Test **********
+2023-11-28 15:16:45,363 - root - INFO - ******* Starting Add Customer Test **********
+2023-11-28 15:16:45,363 - root - INFO - ******* Starting Add Customer Test **********
+2023-11-28 15:16:45,363 - root - INFO - ******* Starting Add Customer Test **********
+2023-11-28 15:16:45,363 - root - INFO - ******* Starting Add Customer Test **********
+2023-11-28 15:16:49,290 - root - INFO - ************* Providing customer info **********
+2023-11-28 15:16:49,290 - root - INFO - ************* Providing customer info **********
+2023-11-28 15:16:49,290 - root - INFO - ************* Providing customer info **********
+2023-11-28 15:16:49,290 - root - INFO - ************* Providing customer info **********
+2023-11-28 15:16:49,290 - root - INFO - ************* Providing customer info **********
+2023-11-28 15:17:06,265 - root - INFO - ************* Saving customer info **********
+2023-11-28 15:17:06,265 - root - INFO - ************* Saving customer info **********
+2023-11-28 15:17:06,265 - root - INFO - ************* Saving customer info **********
+2023-11-28 15:17:06,265 - root - INFO - ************* Saving customer info **********
+2023-11-28 15:17:06,265 - root - INFO - ************* Saving customer info **********
+2023-11-28 15:17:06,268 - root - INFO - ********* Add customer validation started *****************
+2023-11-28 15:17:06,268 - root - INFO - ********* Add customer validation started *****************
+2023-11-28 15:17:06,268 - root - INFO - ********* Add customer validation started *****************
+2023-11-28 15:17:06,268 - root - INFO - ********* Add customer validation started *****************
+2023-11-28 15:17:06,268 - root - INFO - ********* Add customer validation started *****************
+2023-11-28 15:17:11,554 - root - INFO - ********* Add customer Test Passed *********
+2023-11-28 15:17:11,554 - root - INFO - ********* Add customer Test Passed *********
+2023-11-28 15:17:11,554 - root - INFO - ********* Add customer Test Passed *********
+2023-11-28 15:17:11,554 - root - INFO - ********* Add customer Test Passed *********
+2023-11-28 15:17:11,554 - root - INFO - ********* Add customer Test Passed *********
+2023-11-28 15:17:11,728 - root - INFO - ******* Ending Add customer test **********
+2023-11-28 15:17:11,728 - root - INFO - ******* Ending Add customer test **********
+2023-11-28 15:17:11,728 - root - INFO - ******* Ending Add customer test **********
+2023-11-28 15:17:11,728 - root - INFO - ******* Ending Add customer test **********
+2023-11-28 15:17:11,728 - root - INFO - ******* Ending Add customer test **********
